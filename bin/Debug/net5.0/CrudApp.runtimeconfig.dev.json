@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ritwik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ritwik\\.nuget\\packages"
+    ]
+  }
+}
